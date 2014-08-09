@@ -14,7 +14,7 @@ This site is built with [jekyll](http://jekyllrb.com/) so the first thing I did 
 
 I chose to continue hosting through [GitHub Pages](https://pages.github.com/) because pushing changes to my live site is just as simple as `git push`. This is a fairly simple setup (not to mention easy to maintain) but without a domain name, the site still sits as a subdomain of github. There's certainly nothing wrong with that but I think I'd like something a bit fancier.
 
-That's where the fun part comes in. I'd actually never purchased a domain before or put a site on the web that wasn't a rails or javascript app so this is foreign territory. Fortunately with GitHub Pages & the newly introduced [Google Domains](http://domains.google.com/about/)* setting up a custom domain is virtually effortles.
+That's where the fun part comes in. I'd actually never purchased a domain before or put a site on the web that wasn't a rails or javascript app so this is foreign territory. Fortunately with GitHub Pages & the newly introduced [Google Domains](http://domains.google.com/about/)* setting up a custom domain is virtually effortless.
 
 ### The Hard Part
 
