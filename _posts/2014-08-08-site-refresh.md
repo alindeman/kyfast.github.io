@@ -24,15 +24,15 @@ In the root folder of my project I created a file called `CNAME` that only conta
 <script src="https://gist.github.com/KyFaSt/3e5799c9c9cb90f80090.js"></script>
 
 I pushed this up to the master branch on github & then checked on the repo's settings that changes would be pushed to my domain:
-![github pages](/assets/site-refresh-github-pages-settings.png)
+![github pages](/assets/img/site-refresh-github-pages-settings.png)
 
 That wasn't too bad, just one step remained: pointing the the domain to the web server where my site was hosted. This part was a little trickier, I knew I needed to set up a custom resource record but I wasn't certain which type to use.
 
 After some searching through GitHub Pages' help resources I found [this page](https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider). Here I determined I could set up my custom resource route as type 'A'. After navigating to the 'advanced' section of this domain's management page I input the IPs provided from the GitHub Pages help:
-![github pages](/assets/site-refresh-custom-rscrc-records.png)
+![github pages](/assets/img/site-refresh-custom-rscrc-records.png)
 
 I ran `dig kyfast.net` from my command line & returned the two IPs I set in the resource record:
-![github pages](/assets/site-refresh-dig.png)
+![github pages](/assets/img/site-refresh-dig.png)
 
 Alternatively, you can always just hit your site & make sure it's serving the content you expect.
 
