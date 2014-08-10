@@ -13,7 +13,10 @@ url:              kyfast.net
 
 author:
   name:           'Kylie Stradley'
-  url:            https://twitter.com/kyfast
+  url:
+  github:         kyfast
+  twitter:        kyfast
+  email:          ky@kyfast.net
 
 paginate:         5
 

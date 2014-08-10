@@ -99,6 +99,16 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
 }
 
+/* Sidebar icons */
+.sidebar-icon {
+  list-style: none;
+}
+
+li.sidebar-icon {
+  display: inline;
+  padding: 0 5% 0;
+}
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
@@ -248,3 +258,8 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Add your includes. */
+ 
+{% include font-awesome.css %}
+{% include custom.css %}
