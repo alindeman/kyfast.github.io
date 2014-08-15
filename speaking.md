@@ -1,37 +1,52 @@
 ---
 layout: page
-title: Speaking
+title: Speaking & Events
 ---
 
 
 
-##Upcoming Events
-
-
-
-##Past Events
-###Git Patch & Stash
-25 June 2014
-A live coding demo where I showcased git's stash & add --patch functions for Rails Girls Atlanta.
-
-
-###Big Data Week Atlanta
-6 May 2014
-A panel I served on at Big Data Week discussing how to become a developer or data scientist.
-
-
-###ATT Women in Tech Hackathon
-11 April 2014
-Slides I presented in conjunction with a pre-hackathon talk on the confidence gap & how not to fall in.
-<media async class="speakerdeck-embed" data-id="19bd9ee0a403013120051af8c79ec55f" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></media>
-
+Upcoming Events
+---------------
 
 ###Rails Girls Athens Workshop
+10 & 11 October 2014
+
+Rails Girls is an international organization dedicating to providing tools and community to help women teach themselves Ruby on Rails. Apply to attend the workshop [here](http://railsgirlsathens.com)
+___
+Past Events
+-----------
+
+###Git Patch & Stash-Rails Girls ATL
+25 June 2014
+
+Another live coding demo where I showcased git's stash & add --patch functions for Rails Girls Atlanta.
+___
+###Simple Search Workshop-Atlanta Intermediate Ruby
+24 June 2014
+
+Short workshop where I showed intermediate ruby users how to take advantage of simple search functions in [Postgres](http://www.postgresql.org/). You can check out my implementation for the demo [here](https://github.com/KyFaSt/search_app)
+___
+###Big Data Week Atlanta
+6 May 2014
+
+A panel I served on at Big Data Week discussing how to become a developer or data scientist.
+___
+###ATT Women in Tech Hackathon
+11 April 2014
+
+Slides I presented in conjunction with a pre-hackathon talk on the confidence gap & how not to fall in.
+
+<a href="https://speakerdeck.com/kyfast/railroady-and-contributing-to-open-source"><i class="fa fa-link fa-fw"></i>&nbsp; slides</a>
+___
+###Rails Girls Athens Workshop
 4 & 5 April 2014
-I was fortunate enough to serve as a coach at this event, focused on helping women setup and learn to use Ruby on Rails. [more information here](http://railsgirlsathens.com/)
 
-
-###Railroady & Contributing to Open Source
+Rails Girls is an international organization dedicating to providing tools and community to help women teach themselves Ruby on Rails. I was very lucky to be able to help out at a local event in Athens, GA! 
+___
+###Railroady & Contributing to Open Source-Rails Girls ATL
 26 March 2014
+
 My first public speaking event as a software developer. I spoke about a gem that creates UML diagrams of models & controllers. I also try to convince you to contribute to open source, because no one knows you're a dog on Github.
-<script async class="speakerdeck-embed" data-id="e017a690968c013157007e3205d19d29" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+<a href="https://speakerdeck.com/kyfast/railroady-and-contributing-to-open-source"><i class="fa fa-link fa-fw"></i>&nbsp; slides</a>
+___ 
