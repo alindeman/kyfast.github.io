@@ -8,13 +8,20 @@ title: Speaking & Events
 Upcoming Events
 ---------------
 
+
+___
+Past Events
+-----------
+
+###Atlanta Global Day of Code Retreat
+15 November 2014
+
+I was able to help out with Atlanta's Global Day of Code Retreat 2014 by facilitating the [event](http://www.bignerdranch.com/blog/2014-global-day-of-code-retreat/). I highly recommend attending or organizing a Global Day of Code Retreat if you can, it's a great opportunity to focus on good Object Oriented Design.
+
 ###Rails Girls Athens Workshop
 10 & 11 October 2014
 
 Rails Girls is an international organization dedicating to providing tools and community to help women teach themselves Ruby on Rails. Apply to attend the workshop [here](http://railsgirlsathens.com)
-___
-Past Events
------------
 
 ###Git Patch & Stash-Rails Girls ATL
 25 June 2014
@@ -24,7 +31,7 @@ ___
 ###Simple Search Workshop-Atlanta Intermediate Ruby
 24 June 2014
 
-Short workshop where I showed intermediate ruby users how to take advantage of simple search functions in [Postgres](http://www.postgresql.org/). You can check out my implementation for the demo [here](https://github.com/KyFaSt/search_app)
+Short workshop where I showed intermediate ruby users how to take advantage of simple search functions in [Postgres](http://www.postgresql.org/). You can check out my implementation for the demo [here](https://github.com/KyFaSt/search_app) or view the [video](http://youtu.be/-2Df3yeueU4).
 ___
 ###Big Data Week Atlanta
 6 May 2014
