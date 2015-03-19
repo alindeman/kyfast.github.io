@@ -7,7 +7,20 @@ title: Speaking & Events
 
 Upcoming Events
 ---------------
+###Atlanta Code Retreat
+28 March 2015
 
+Come out to [Big Nerd Ranch](http://bignerdranch.com) for another Code Retreat where we'll pair and TDD our way through the four simple rules of design. Just a few tickets left for this event, so grab yours [here](https://eventbrite.com/e/atlanta-code-retreat-march-28-tickets-15946662898)!
+
+###Rails Girls Atlanta Presents...RailsBridge!
+19 & 20 April 2015
+
+Join the Atlanta Rails Girls for Atlanta's first ever RailBridge Workshop! Register to attend as a student or learn more at our event [page](https://bridgetroll.org/events/150).
+
+###Amelia Bedelia Learns to Code-RailsConf
+21-23 April 2015
+
+I'm giving my first ever conference talk at RailsConf this April, I'll be discussing errors many beginner make and why. This talk isn't just for beginners though, I hope more advanced developers will enjoy reminiscing their own mistakes and share with their junior colleagues. Read my [proposal](http://railsconf.com/program#prop_1010) or tell me about your beginner mistakes on [twitter](https://twitter.com/kyfast).
 
 ___
 Past Events
