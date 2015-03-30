@@ -7,11 +7,6 @@ title: Speaking & Events
 
 Upcoming Events
 ---------------
-###Atlanta Code Retreat
-28 March 2015
-
-Come out to [Big Nerd Ranch](http://bignerdranch.com) for another Code Retreat where we'll pair and TDD our way through the four simple rules of design. Just a few tickets left for this event, so grab yours [here](https://eventbrite.com/e/atlanta-code-retreat-march-28-tickets-15946662898)!
-
 ###Rails Girls Atlanta Presents...RailsBridge!
 19 & 20 April 2015
 
@@ -25,6 +20,11 @@ I'm giving my first ever conference talk at RailsConf this April, I'll be discus
 ___
 Past Events
 -----------
+
+###Atlanta Code Retreat
+28 March 2015
+
+Come out to [Big Nerd Ranch](http://bignerdranch.com) for another Code Retreat where we'll pair and TDD our way through the four simple rules of design. Just a few tickets left for this event, so grab yours [here](https://eventbrite.com/e/atlanta-code-retreat-march-28-tickets-15946662898)!
 
 ###Atlanta Global Day of Code Retreat
 15 November 2014
