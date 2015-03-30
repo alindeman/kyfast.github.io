@@ -2,6 +2,7 @@
 layout: post
 title: "Two Very Bad Jokes"
 description:
+category: jokes
 ---
 
 Not everything on this blog will be about programming.  I really enjoy my work, but only if I need a job. If I didn't need a job, instead of writing terrible, terrible code I would write terrible, terrible comedy. Here are two very bad jokes I wrote for a very bad standup set for people who only want to hear jokes about animals:

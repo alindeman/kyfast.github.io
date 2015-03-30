@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Focusing on Features at Hackathons"
+category: tips
 ---
 
 You might have a lot of reasons to participate in a hackathon but one of my goals is to learn something new. For me at least, I hope that something new will be how to implement a feature I haven't before or get more comfortable with an unfamiliar language. To make it easier to learn something new, I have picked up a few things that help me reduce distractions and focus on writing code.

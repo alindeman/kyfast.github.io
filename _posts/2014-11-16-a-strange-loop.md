@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Strange Loop 2014"
+category: conferences
 ---
 
 In September, I attended the Strange Loop Conference in St. Louis by way of their diversity scholarship. I'll admit I was a little nervous about attending as a Ruby developer, as I'd overheard the conference's unoffical byline: "an annual event to destroy object oriented progamming". I got to experience a lot of awesome things and meet really cool people but in the interest of brevity I've only shared a few of my favorite experiences here.

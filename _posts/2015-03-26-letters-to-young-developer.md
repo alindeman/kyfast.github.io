@@ -2,6 +2,7 @@
 layout: post
 title: "Letters to a Young Developer, pt. 1"
 description:
+category: letters-to-a-young-developer
 ---
 
 I love programming, I really do. I like making stuff work, I like when I finally wrap my head around a concept, I really like rubber-ducking with people. Since I love it so much, I can get pretty excited when someone tells me they're learning to program. And I get even more excited when they ask me for advice. Vainly, it makes me feel good that someone thinks I know enough that they might want to take my advice.

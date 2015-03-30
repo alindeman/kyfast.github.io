@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Refreshing my Site with Github Pages & Google Domains"
+category: tips
 ---
 
 ### Dang

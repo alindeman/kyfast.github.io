@@ -19,6 +19,7 @@ author:
   email:          ky@kyfast.net
 
 paginate:         5
+related_posts_max: 3
 
 # # Custom vars
 # version:          2.0.0

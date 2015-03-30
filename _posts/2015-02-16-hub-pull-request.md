@@ -2,6 +2,7 @@
 layout: post
 title: "Hub for GitHub"
 description:
+category: tools
 ---
 I'm trying to keep track of the tools I use most and also remember how to use them. Since I have a terrible memory I'm doing the thing where you write you blog posts as reminders for yourself so here's the first one:
 
