@@ -7,13 +7,14 @@ permalink:        pretty
 
 # Setup
 title:            kylie stradley
-tagline:          ''
+tagline:          'A Blog About a Developing Developer'
 description:      'web developer'
 url:              kyfast.net
+name:             "Kylie's Blog"
 
 author:
   name:           'Kylie Stradley'
-  url:
+  url:            kyfast.net
   github:         kyfast
   twitter:        kyfast
   email:          ky@kyfast.net
