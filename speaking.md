@@ -7,6 +7,15 @@ title: Speaking & Events
 
 Upcoming Events
 ---------------
+###Athens Women in Technology Meetup
+12 May 2015
+
+The Athens Women in Technology group has kindly offered to let me present my "Amelia Bedelia Learns to Code" talk at their meetup. You can learn more on the event [page](http://www.meetup.com/Greater-Athens-Area-Software-Developers/events/221273939/).
+
+___
+Past Events
+-----------
+
 ###Rails Girls Atlanta Presents...RailsBridge!
 19 & 20 April 2015
 
@@ -15,11 +24,7 @@ Join the Atlanta Rails Girls for Atlanta's first ever RailBridge Workshop! Regis
 ###Amelia Bedelia Learns to Code-RailsConf
 21-23 April 2015
 
-I'm giving my first ever conference talk at RailsConf this April, I'll be discussing errors many beginner make and why. This talk isn't just for beginners though, I hope more advanced developers will enjoy reminiscing their own mistakes and share with their junior colleagues. Read my [proposal](http://railsconf.com/program#prop_1010) or tell me about your beginner mistakes on [twitter](https://twitter.com/kyfast).
-
-___
-Past Events
------------
+I gave first ever conference talk at RailsConf this April, I discussed errors many beginner make and why. This talk isn't just for beginners though, I hope more advanced developers will enjoy reminiscing their own mistakes and share with their junior colleagues. Read my [proposal](http://railsconf.com/program#prop_1010), watch the [recording](http://confreaks.tv/videos/railsconf2015-amelia-bedelia-learns-to-code) or tell me about your beginner mistakes on [twitter](https://twitter.com/kyfast).
 
 ###Atlanta Code Retreat
 28 March 2015
