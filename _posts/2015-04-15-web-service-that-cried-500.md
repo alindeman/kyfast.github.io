@@ -9,11 +9,11 @@ category: jokes
 
 There once was a web service who was not programmed with other developers in mind when he was originally written. To communicate any error, small or large, he took a great breath and sang out, "`500`! `500`! The internal server has an error!"
 
-The other developers came running to the error logs to help the boy drive the `500` error away. But when they arrived at the top of the logs, they found no `500`. The web service laughed at the sight of their angry faces.
+The other developers came running to the error logs to help the web service drive the `500` error away. But when they arrived at the top of the logs, they found no `500`. The web service laughed at the sight of their angry faces.
 
 "Don't cry '`500`', web service," said the developers, "when there's no `500`!" They went grumbling back out of the logs muttering "`:q!` and `exit`" under their breath.
 
-Later, the web service sang out again, "`500`! `500`! The internal servers has an unspecified error!" To his naughty delight, he watched the developers `ssh` into the server and `cd` to logs to help him drive the `500` away.
+Later, the web service sang out again, "`500`! `500`! The internal server has an unspecified error!" To his naughty delight, he watched the developers `ssh` into the server and `cd` to logs to help him drive the `500` away.
 
 When the developers saw no `500` they sternly said, "Save your frightened song for when there is really something wrong! Don't cry '`500`' when there is a more specific error!"
 

@@ -16,9 +16,9 @@ I also caught a talk on React.JS that I enjoyed. I have dabbled with some JavaSc
 
 All of the talks I saw were really awesome, but I did have 2 favorites by far. I think I liked them both because they made functional programming feel much more accessible to me.
 
-#### Felienne Harris on Excel for Programmers
+#### Felienne Hermans on Excel for Programmers
 
-[Felienne Harris' talk on Excel for programmers](http://www.youtube.com/watch?v=0CKru5d4GPk) was one of my favorite talks. Initially, I didn't want to attend because I got my start in programming writing VBA in Excel & I didn't really want to dredge up those memories. Once I read the talk description, I knew I couldn't miss it. Felienne proved that Excel was a programming language and that it was also a very good functional programming language.
+[Felienne Hermans' talk on Excel for programmers](http://www.youtube.com/watch?v=0CKru5d4GPk) was one of my favorite talks. Initially, I didn't want to attend because I got my start in programming writing VBA in Excel & I didn't really want to dredge up those memories. Once I read the talk description, I knew I couldn't miss it. Felienne proved that Excel was a programming language and that it was also a very good functional programming language.
 
 What was most amazing to me was seeing the test suites she was working on for Excel, people might joke about being "Excel Jockeys" but in all truth, these spreadsheets can become complex financial decision making systems that need to have verifiable data. Which is, in my opinion, the perfect scenario to implement a test suite. Afterwards, I spoke with her & joked that if I had found out about her research before I found out about Ruby, I'd probably be a grad student helping write a test framework for excel.
 
