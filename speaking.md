@@ -67,7 +67,7 @@ ___
 
 Slides I presented in conjunction with a pre-hackathon talk on the confidence gap & how not to fall in.
 
-<a href="https://speakerdeck.com/kyfast/railroady-and-contributing-to-open-source"><i class="fa fa-link fa-fw"></i>&nbsp; slides</a>
+<a href="https://speakerdeck.com/kyfast/confidence-gap"><i class="fa fa-link fa-fw"></i>&nbsp; slides</a>
 ___
 ###Rails Girls Athens Workshop
 4 & 5 April 2014
