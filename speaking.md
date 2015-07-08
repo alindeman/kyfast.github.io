@@ -7,14 +7,20 @@ title: Speaking & Events
 
 Upcoming Events
 ---------------
+### Amelia Bedelia Learns to Code - Eurucamp - Potsdam, Germany
+31 July - 02 August 2015
+
+I'm thrilled to have been accepted to [present](http://2015.eurucamp.org/speakers/#kylie-stradley) my talk "Amelia Bedelia Learns to Code"
+in Potsdam, Germany at this year's Eurucamp conference.
+___
+Past Events
+-----------
+
 ###Athens Women in Technology Meetup
 12 May 2015
 
 The Athens Women in Technology group has kindly offered to let me present my "Amelia Bedelia Learns to Code" talk at their meetup. You can learn more on the event [page](http://www.meetup.com/Greater-Athens-Area-Software-Developers/events/221273939/).
 
-___
-Past Events
------------
 
 ###Rails Girls Atlanta Presents...RailsBridge!
 19 & 20 April 2015
