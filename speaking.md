@@ -7,14 +7,15 @@ title: Speaking & Events
 
 Upcoming Events
 ---------------
-### Amelia Bedelia Learns to Code - RubyConf.pt - Braga, Portugal
-14 & 15 September 2015
-
-I'm so excited I was invited to [present](http://rubyconf.pt/speakers/#kyfast) my talk "Amelia Bedelia Learns to Code" at RubyConf.pt in beautiful Braga, Portugal along with so many other amazing [speakers](http://rubyconf.pt/speakers/). Also, they have an amazing website you should [check out](http://rubyconf.pt/) even if you're not attending this year.
 ___
 Past Events
 -----------
-### Amelia Bedelia Learns to Code - Eurucamp - Potsdam, Germany
+#### Amelia Bedelia Learns to Code - RubyConf.pt - Braga, Portugal
+14 & 15 September 2015
+
+I'm so excited I was invited to [present](http://rubyconf.pt/speakers/#kyfast) my talk "Amelia Bedelia Learns to Code" at RubyConf.pt in beautiful Braga, Portugal along with so many other amazing [speakers](http://rubyconf.pt/speakers/). Also, they have an amazing website you should [check out](http://rubyconf.pt/) even if you're not attending this year.
+
+## Amelia Bedelia Learns to Code - Eurucamp - Potsdam, Germany
 31 July - 02 August 2015
 
 I had an amazing time and I'm very glad I was able [present](http://2015.eurucamp.org/speakers/#kylie-stradley) my talk "Amelia Bedelia Learns to Code"
