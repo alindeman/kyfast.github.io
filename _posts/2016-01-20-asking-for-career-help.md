@@ -46,7 +46,7 @@ After going to some meetups you finally met some of these kind developers who wa
 
 "Hi. I see that `AtlantasMostFunDevShop` has a job opening. I'm really interested in working there, can you connect me with the correct person?"
 
-This is definitely more specific. Narrowing your scope to a jobs available at my company is certainly a smaller set than all possible jobs. So simple, all I need to do is connect you with the correct person.
+This is definitely more specific. Narrowing your scope to a job available at my company is certainly a smaller set than all possible jobs. So simple, all I need to do is connect you with the correct person.
 
 >"can you connect me with the correct person?"
 
@@ -55,7 +55,7 @@ The correct person for what though? The correct person to tell you their experie
 >"Hi, I saw this job opening at your company and I'm really interested in learning more. Do you know someone on that team I could speak to to learn more about it?"
 
 or 
-> “Hi, I saw this job opening at your company and I'm really interested in learning more. Would you be interested in grabbing coffee to chat about `AtlantasMostFunDevShop'?”
+> “Hi, I saw this job opening at your company and I'm really interested in learning more. Would you be interested in grabbing coffee to chat about `AtlantasMostFunDevShop`?”
  
 Hey! I can definitely help you with that. By being explicit that you're looking for more information and not a way to bypass the system, I'm comfortable introducing you to my coworkers because I know you won't put them in a position of discomfort or pressure. By meeting my co-workers with the intent of discussing the role and seeing if you find common ground instead of "leveraging" them like a resource, you can expand your network of people interested in helping you.
 
