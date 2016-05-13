@@ -1,4 +1,4 @@
-# Dependencies
+# Dependencie
 markdown:         redcarpet
 highlighter:      true
 gems: [jekyll-paginate]
@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            kylie stradley
 tagline:          'A Blog About a Developing Developer'
-description:      'web developer'
+description:      'internet spider'
 url:              http://kyfast.net
 name:             "Kylie's Blog"
 
