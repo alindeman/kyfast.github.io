@@ -66,7 +66,7 @@ TEST THE CONNECTIONS AND TEST THE CODE BEFORE SOLDERING FURTHER
 - connect red on button to red on JST 2-pin cable, use the shrink cable or electrical tape to cover any exposed wiring
 - connect black on button to black on JST 2-pin cable, use the shrink cable or electrical tape to cover any exposed wiring
 
-<img style="float: center; height: auto; width: 50%" src="/assets/img/stranger_things/flora.jpg">
+<img style="float: center; height: auto; width: 50%" src="/assets/img/stranger_things/flora.JPG">
 
 
 
@@ -111,7 +111,7 @@ Here's the [code](https://github.com/KyFaSt/stranger_things)!
 ###Improvements
 
 I like to call the back side of the panel "the upside down" because it's such a tangled nightmare:
-<img style="float: center; height: auto; width: 50%" src="/assets/img/stranger_things/back_panel.jpg">
+<img style="float: center; height: auto; width: 50%" src="/assets/img/stranger_things/back_panel.JPG">
 
 - Connect the board to wifi and a web server so friends could send messages to the board to be displayed.
 - I'd really like to re-solder some of the joints and find a corded phone I can take apart and use as the enclosure.- 
